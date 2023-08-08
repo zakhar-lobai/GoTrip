@@ -1,4 +1,4 @@
-<h1>GoTrip</h1>
+<div align='center'><h1>GoTrip</h1></div>
 
 <h2>About the project</h2>
 
